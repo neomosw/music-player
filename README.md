@@ -1,0 +1,2 @@
+# Modern Music Player Project
+A web-based music player built from scratch using HTML, CSS, and JavaScript. It allows users to play and manage local audio files directly in the browser, featuring a clean interface and smooth playback controls.
